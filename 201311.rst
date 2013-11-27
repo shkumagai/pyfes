@@ -119,7 +119,7 @@ http://connpass.com/event/4273/
 
 我こそは、という方おまちしております。ジャンルは問いません。
 
-GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお願いします。
+GitHub にて Pull-Request を送ってくるか Twitter でリプライをお願いします。
 
 時間は 20 分程度です。
 
